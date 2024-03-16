@@ -3,7 +3,7 @@
 > Generate a random URL
 
 
-## Install
+## commit and run
 
 ```
 $ npm install --save random-url
